@@ -1,5 +1,5 @@
-Подробное изучение классов:
-- Написание своих классов
-- Конструкторы
-- Знакомство с Get & Set
-- private переменные
+A detailed study of the classes:
+Writing classes
+Сonstructors
+Introduction to Get & Set
+Private variables
